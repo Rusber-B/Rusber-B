@@ -74,8 +74,7 @@ Soy un joven apasionado por la tecnología y el desarrollo de software. Actualme
 [![El-PatioFC](https://github-readme-stats.vercel.app/api/pin/?username=Rusber-B&repo=El-PatioFC&theme=tokyonight&hide_border=true)](https://github.com/Rusber-B/El-PatioFC)
 [![CRASH-API](https://github-readme-stats.vercel.app/api/pin/?username=Rusber-B&repo=CRASH-API&theme=tokyonight&hide_border=true)](https://github.com/Rusber-B/CRASH-API)
 
-[![Lavandería Stilo Único](https://github-readme-stats.vercel.app/api/pin/?username=yerepf&repo=lavanderia-stilo-unico&theme=tokyonight&hide_border=true)](https://github.com/yerepf/lavanderia-stilo-unico)
-
+(https://lavanderiastilounico.rep.software/)
 </div>
 
 > 🧺 **Lavandería Stilo Único** — Landing page desarrollada por mí para un cliente/colaborador, construida con **Astro** y **Tailwind CSS**.
